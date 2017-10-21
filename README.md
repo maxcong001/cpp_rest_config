@@ -1,4 +1,4 @@
-# CPP_REST
+# CPP_REST_CONFIG
 
 ## How to build
 
