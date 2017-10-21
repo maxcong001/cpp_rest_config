@@ -1,7 +1,4 @@
-# micro-service
-This is a sample that shows how to implement a micro-serivce on C++ using the C++ REST SDK
-
-[![Twitter](https://img.shields.io/badge/Twitter-@iUberCoder-blue.svg?style=flat)](https://twitter.com/iUberCoder)
+# CPP_REST
 
 ## How to build
 
